@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 chrono = "0.4.34"
+dotenv = "0.15.0"
 postgres = "0.19.7"
 regex = "1.10.3"
 serde_json = "1.0.114"
